@@ -6,9 +6,6 @@ This is a machine learning model for classifying traffic signs using convolution
 ## Installation
 1. Clone this repository and navigate to the root directory.
 2. Download the pre-trained model from the [releases page](https://github.com/yourusername/yourreponame/releases).
-3. Install the required Python packages by running the following command:
-```bash
-pip install -r requirements.txt
 
 ## Training
 1. The model is built using the `Traffic_Signs_Classifier.ipynb` noteboook file
