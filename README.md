@@ -10,6 +10,5 @@ This is a machine learning model for classifying traffic signs using convolution
 ```bash
 pip install -r requirements.txt
 
-
-## Usage
-1. Run the following command to classify an image of a traffic sign:
+## Training
+1. The model is built using the `Traffic_Signs_Classifier.ipynb` noteboook file
